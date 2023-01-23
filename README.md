@@ -1,2 +1,3 @@
-# xfce4
-install xfce4
+# Install xfce4
+apt install xfce4 tasksel xinit xorg dbus-launch
+startx
